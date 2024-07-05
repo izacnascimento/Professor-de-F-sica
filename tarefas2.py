@@ -1,3 +1,2 @@
-for valor in range(1,101):
-    print(print(valor))
-    
+for dinheiro in range(1,101):
+    print(print(dinheiro))
